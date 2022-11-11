@@ -4,3 +4,4 @@ node_modules/
 .env.test
 /deploy-commands.js
 /deploy-commands-global.js
+/delete-commands.js
