@@ -1,0 +1,6 @@
+node_modules/
+/package-lock.json
+.env
+.env.test
+/deploy-commands.js
+/deploy-commands-global.js
